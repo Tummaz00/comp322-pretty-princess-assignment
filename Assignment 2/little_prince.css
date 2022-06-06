@@ -1,0 +1,25 @@
+.aligncenter {
+    text-align:center;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+div {
+    margin:auto;
+    width: 343px;
+}
+
+p{
+    text-align: center;
+}
+
+.redWords {
+    color: red;
+    font-weight: bold;
+}
+
+.orangeHighlight{
+    background-color: orange;
+}
